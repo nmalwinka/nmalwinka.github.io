@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Seeking science advances
-email: nmalwinka@gmail.com
+email: 23212108+nmalwinka@users.noreply.github.com
 description: >- # this means to ignore newlines until "baseurl:"
   Personal website of Malwina Prater. Bioinformatics.
 twitter_username: nmalwinka
@@ -105,5 +105,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
-
