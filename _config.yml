@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Malwina Prater"
-  avatar : "/assets/images/MP_photo.jpg"
+  avatar : "/assets/images/MP_photo.jpeg"
   bio    : "Bioinformatics."
   links:
     - label: "CV"
