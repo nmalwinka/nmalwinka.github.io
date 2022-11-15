@@ -19,9 +19,9 @@ Turco, M.Y., Gardner, L., Kay, R., Hamilton, R.S., **Prater, M.**, Hollinshead, 
 
 Stojic, L., **Niemczyk, M.**, Orjalo, A., Ito, Y., Ruiter, AEM., Uribe-Lewis, S., Joseph, N., Weston, S., Menon, S., Odom, DT., Rinn, J., Gergely, F., Murrell, A. (2016). Transcriptional silencing of long noncoding RNA GNG12-AS1 uncouples its transcriptional and product-related functions. Nature Communications 7 (Article number: 10406).
 
-**Niemczyk, M.**, Ito, Y., Huddleston, J., Git, A., Abu-Amero, S., Caldas, C., Moore, GE., Stojic, L., Murrell, A. (2013). Imprinted Chromatin around DIRAS3 Regulates Alternative Splicing of GNG12-AS1, a Long Noncoding RNA. American Journal of Human Genetics pii: S0002-9297(13)00279-6.  
+**Niemczyk, M.**, Ito, Y., Huddleston, J., Git, A., Abu-Amero, S., Caldas, C., Moore, GE., Stojic, L., Murrell, A. (2013). Imprinted Chromatin around DIRAS3 Regulates Alternative Splicing of GNG12-AS1, a Long Noncoding RNA. American Journal of Human Genetics pii: S0002-9297(13)00279-6. 
 
-Shah, P., Ding, Y., **Niemczyk, M.**, Kudla, G., Plotkin, JB. (2013). Rate-Limiting Steps in Yeast Protein Translation. Cell 153(7):1589-601. 
+Shah, P., Ding, Y., **Niemczyk, M.**, Kudla, G., Plotkin, JB. (2013). Rate-Limiting Steps in Yeast Protein Translation. Cell 153(7):1589-601.
 
 
 
@@ -33,7 +33,4 @@ Carnicer-Lombarte, A. Barone, D.G., Dimov, I.B., Hamilton, R.S., **Prater, M.**,
 
 ## Doctoral thesis
 
-**Prater, M.** (2014) Epigenetic and transcriptional relationship between a novel long non-coding RNA GNG12-AS1 and imprinted DIRAS3.
-
-
-
+**Niemczyk, M.** (2014) Epigenetic and transcriptional relationship between a novel long non-coding RNA GNG12-AS1 and imprinted DIRAS3.
