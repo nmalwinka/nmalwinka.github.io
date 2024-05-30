@@ -17,7 +17,6 @@ title: Seeking scientific advances benefiting the world.
 email: nmalwinka@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Personal website of Malwina Prater. Bioinformatics.
-twitter_username: nmalwinka
 github_username: nmalwinka
 minimal_mistakes_skin: air
 search: true
@@ -62,9 +61,6 @@ author:
   links:
     - label: "CV"
       url: "/assets/pdfs/MALWINA_PRATER_CV_2024.pdf"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/nmalwinka"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nmalwinka"
