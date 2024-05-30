@@ -6,9 +6,12 @@ layout: single
 author_profile: true
 ---
 
-I am a bioinformatician with 7.5 years of experience in collaborative research and NGS data analysis. With deep extensive experience in scientific research and bioinformatics, I am uniquely positioned to integrate and consult on both areas of wet lab and dry lab research. My passion is seeing scientific advances benefiting the world.
+I am a senior bioinformatician with 7.5 years of experience in collaborative research and NGS data analysis. With deep extensive experience in scientific research and bioinformatics, I am uniquely positioned to integrate and consult on both areas of wet lab and dry lab research. My passion is seeing scientific advances benefiting the world.
 
-In mu current role, I am providing bioinformatics expertise, leading projects and people at the Functional Genomics Centre, Cancer Research Horizons, Cambridge, UK.
+In mu current role, I am providing bioinformatics expertise, leading projects and people at the **Functional Genomics Centre, Cancer Research Horizons, Cambridge, UK**.
+
+
+
 
 Among my role responsibilities are:
 
@@ -29,9 +32,7 @@ Among my role responsibilities are:
 •	Writing a manuscript for publication
 
 
-
-
-In my previous role, I have been providing bioinformatics expertise to Patrick Chinnery’s group at MRC MBU, University of Cambridge. My work there focused on exploring and in depth analysis of single cell RNA-seq, CROP-seq and MultiOme (scRNA-seq + ATAC-seq) datasets, as well as writing Nextflow pipeline for single cell multiome CROP-seq processing.
+In my previous role, I have been providing bioinformatics expertise to **Patrick Chinnery’s group at MRC MBU, University of Cambridge**. My work there focused on exploring and in depth analysis of single cell RNA-seq, CROP-seq and MultiOme (scRNA-seq + ATAC-seq) datasets, as well as writing Nextflow pipeline for single cell multiome CROP-seq processing.
 
 
 I am excited about collaborative science, data integration, visualisation. 
