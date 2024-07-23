@@ -74,7 +74,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nmalwinka"
     - label: "LinkedIn"
-      icon: "linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/malwina-prater-b4a08565/"
 
 defaults:
