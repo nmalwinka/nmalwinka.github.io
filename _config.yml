@@ -64,13 +64,18 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nmalwinka"
-
+    - label: "LinkedIn"
+      icon: "linkedin"
+      url: "https://www.linkedin.com/in/malwina-prater-b4a08565/"
 
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nmalwinka"
+    - label: "LinkedIn"
+      icon: "linkedin"
+      url: "https://www.linkedin.com/in/malwina-prater-b4a08565/"
 
 defaults:
   # _posts
